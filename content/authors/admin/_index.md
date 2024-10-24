@@ -3,7 +3,7 @@
 title: 张昊乐
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:Zhang Hao Le 
 
 # Full name (for SEO)
 first_name: Haole
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Sophomore
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Macau Univercity of Science and Technology
     url: https://openai.com/
 
 # Social network links
