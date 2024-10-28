@@ -3,7 +3,7 @@
 title: 张昊乐
 
 # Name pronunciation (optional)
-name_pronunciation:Zhang Hao Le 
+name_pronunciation: Chien Shiung Wu 
 
 # Full name (for SEO)
 first_name: Haole
