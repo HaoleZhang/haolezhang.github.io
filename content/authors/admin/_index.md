@@ -3,7 +3,7 @@
 title: 张昊乐
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu 
+name_pronunciation: Zhang Hao Le 
 
 # Full name (for SEO)
 first_name: Haole
@@ -25,7 +25,7 @@ role: Sophomore
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Macau Univercity of Science and Technology
-    url: https://openai.com/
+    url: https://www.must.edu.mo/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,24 +47,25 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Crochet 🧶
+  - Kpop 🎶
+  - Game 🎮
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor of International Tourism Management
+    institution: Macau University of Science and Technology
+    date_start: 2023-09-01
+    date_end: 2024-05-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      This is my first major in MUST as a freahman. I had a wonderful year and got the first place in the Dean's Honor List. 
+      GPA: 3.92/4.0
     button:
-      text: 'Read Thesis'
+      text: 'Dean's Honor List'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor of International Tourism Management
+    institution: Macau University of Science and Technology
+    date_start: 2024-09-01
+    date_end: 2027-05-31
     summary: |
       GPA: 3.8/4.0
 
