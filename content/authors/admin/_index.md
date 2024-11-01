@@ -57,8 +57,7 @@ education:
     date_start: 2023-09-01
     date_end: 2024-05-31
     summary: |
-      This is my first major in MUST as a freahman. I had a wonderful year and got the first place in the Dean's Honor List. 
-      GPA: 3.92/4.0 
+      This is my first major in MUST as a freahman. I had a wonderful year and got the first place in the Dean's Honor List. GPA: 3.92/4.0 
     button:
       text: 'Dean's Honor List'
       url: 'https://example.com'
