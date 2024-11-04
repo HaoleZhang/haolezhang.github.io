@@ -57,7 +57,7 @@ education:
     date_start: 2023-09-01
     date_end: 2024-05-31
     summary: |
-            This is my first major in MUST as a freshman I had a wonderful year and got the first place in the Dean's Horor List. GPA: 3.8/4.0
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Dean's Honor List'
       url: 'https://example.com'
