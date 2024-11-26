@@ -57,7 +57,7 @@ education:
     date_start: 2023-09-01
     date_end: 2024-05-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      This is my first major in MUST as a freshman. I had a wonderful year and got first place in Dean's Honor List and Henry Fok Foundation Scholarship. GPA:3.93
     button:
       text: 'Dean's Honor List'
       url: 'https://example.com'
@@ -143,11 +143,13 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 80
   - name: Chinese
-    percent: 75
-  - name: Portuguese
+    percent: 100
+  - name: Korean
     percent: 25
+  - name: Cantonese
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +185,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+HELLO！！Welcome to my page. I'm Haole Zhang, you can also call me Lily. I'm a sophomore of business administration at Macau University of Science and Technology. Just a little student has a big dream🌟 To know more about me, let's say: I solemnly swear that I up to no good🪄
