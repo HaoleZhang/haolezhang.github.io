@@ -185,4 +185,4 @@ awards:
 
 ## About Me
 
-HELLO！！Welcome to my page. I'm Haole Zhang, you can also call me Lily. I'm a sophomore of business administration at Macau University of Science and Technology. Just a little student has a big dream🌟 To know more about me, let's say: I solemnly swear that I up to no good🪄
+HELLO!! Welcome to my page. I'm Haole Zhang, you can also call me Lily. I'm a sophomore of business administration at Macau University of Science and Technology. Just a little student has a big dream🌟 To know more about me, let's say: I solemnly swear that I up to no good🪄
