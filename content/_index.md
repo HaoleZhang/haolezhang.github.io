@@ -32,30 +32,26 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Myself'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I am a sophomore student. In general, I am outgoing and outgoing, good at getting along with others and can also work hard. In addition to excellent academic performance, I am also the vice president of a club on campus and participate in many volunteer activities outside of school. Welcome to contact me!😃 
     design:
       columns: '1'
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Featured Tasks
       filters:
         folders:
           - publication
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 1
   - block: collection
     content:
-      title: Recent Publications
+      title: Recent Tasks
       text: ""
       filters:
         folders:
@@ -63,16 +59,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
   - block: collection
     id: news
     content:
