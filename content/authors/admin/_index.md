@@ -68,29 +68,6 @@ education:
       - Marketing
       - Microeconomics
       - Legal Environment of Business
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -142,14 +119,13 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: 2023-2024 Faculty of Hospitality and Tourism Management Dean's Honor List
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2024-08-29'
     awarder: Macau University of Science and Technology
     icon: assets/media/icons/MUST.svg
     summary: |
       A nice start for the university life!
   - title: Henry Fok Foundation Scholarship
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    url: https://www.must.edu.mo/id-13630/article/view/id-31484.html
     date: '2024-11-25'
     awarder: Henry Fok Foundation Scholarship
     icon: MUST
