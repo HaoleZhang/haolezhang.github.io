@@ -74,18 +74,14 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: PowerPoint
+        description: ''
+        percent: 60
+        icon: code-bracket
+      - name: Crochet
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+        icon: 🧶
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -98,7 +94,7 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Crochet
+      - name: Musical
         description: ''
         percent: 80
         icon: camera
