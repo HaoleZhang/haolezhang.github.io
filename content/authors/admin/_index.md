@@ -57,21 +57,21 @@ education:
     date_start: 2023-09-01
     date_end: 2024-05-31
     summary: |
-      This is my first major in MUST as a freshman. I had a wonderful year and got first place in Dean's Honor List and Henry Fok Foundation Scholarship. GPA:3.93
+      This is my first major in MUST as a freshman. I had a wonderful year and got first place in Dean's Honor List and Henry Fok Foundation Scholarship. GPA:3.93/4.0
     button:
       text: "Dean's Honor List"
       url: 'https://example.com'
-  - area: Bachelor of International Tourism Management
+  - area: Bachelor of Business Administration
     institution: Macau University of Science and Technology
     date_start: 2024-09-01
     date_end: 2027-05-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.92/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Marketing
+      - Microeconomics
+      - Legal Environment of Business
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -128,15 +128,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Table Tennis
         description: ''
-        percent: 60
+        percent: 80
         icon: person-simple-walk
       - name: Cats
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Crochet
         description: ''
         percent: 80
         icon: camera
@@ -156,31 +156,23 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: 2023-2024 Faculty of Hospitality and Tourism Management Dean's Honor List
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+    date: '2024-08-29'
+    awarder: Macau University of Science and Technology
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
+  - title: Henry Fok Foundation Scholarship
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
+    date: '2024-11-25'
+    awarder: Henry Fok Foundation Scholarship
     icon: edx
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
