@@ -59,7 +59,7 @@ education:
     summary: |
       This is my first major in MUST as a freshman. I had a wonderful year and got first place in Dean's Honor List and Henry Fok Foundation Scholarship. GPA:3.93
     button:
-      text: 'Dean's Honor List'
+      text: "Dean's Honor List"
       url: 'https://example.com'
   - area: Bachelor of International Tourism Management
     institution: Macau University of Science and Technology
