@@ -13,11 +13,11 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2024-11-15T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,10 +25,11 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *2024 2nd International Conference on Digital Economy and
+ Business Administration*
+publication_short: In *ICDEBA 2024*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: At present, the ready-made tea industry is in the spotlight and has achieved great success in the past few years, but the industry is facing many challenges and gradually flat rises. This research sorts out the development of the Chinese ready-made industry and takes two top brands - MIXUE Ice Cream & Tea and HeyTea as examples to expose the plight the whole industry sector is facing and gives suggestions for the entire industry. Based on the SWOT analysis model, the study research on the market situation of these two brands reveals the brand's strengths, weaknesses, opportunities, and threats. At the same time, it points out the customers’ demand for their drinks and gives its advice. These results can help the corporations to evaluate the efficacy of corporations on their own. For further prospects, not only MIXUE Ice Cream & Tea and HeyTea but also other corporations can take some action to attract more potential consumers and keep the existing consumer base.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
