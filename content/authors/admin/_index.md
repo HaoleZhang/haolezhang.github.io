@@ -33,7 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'zhl_yx_03290921@163.com'
     label: E-mail Me
-  - icon: /workspaces/haolezhang.github.io/assets/media/icons/LOFTER.svg
+  - icon: LOFTER
     url: https://weareone189.lofter.com/
   - icon: brands/instagram
     url: https://www.instagram.com/zhl_yx_03290921/
