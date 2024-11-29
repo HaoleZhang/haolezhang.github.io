@@ -25,9 +25,9 @@ summary: 中文阅读与写作的结课作业
 tags:
 - 红与黑
 
-featured: false
+featured: true
 
-url_pdf: [Download PDF](content/publication/preprint/论文.pdf)
+url_pdf: content/publication/preprint/论文.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
