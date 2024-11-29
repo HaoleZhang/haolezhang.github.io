@@ -52,7 +52,7 @@ education:
       This is my first major in MUST as a freshman. I had a wonderful year and got first place in Dean's Honor List and Henry Fok Foundation Scholarship. GPA:3.93/4.0
     button:
       text: "Dean's Honor List"
-      url: 'https://example.com'
+      url: uploads/张昊乐-CV new.pdf
   - area: Bachelor of Business Administration
     institution: Macau University of Science and Technology
     date_start: 2024-09-01
