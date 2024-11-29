@@ -33,14 +33,10 @@ profiles:
   - icon: at-symbol
     url: 'zhl_yx_03290921@163.com'
     label: E-mail Me
-  - icon: LOFTER
-    url: https://weareone189.lofter.com/
   - icon: brands/instagram
     url: https://www.instagram.com/zhl_yx_03290921/
   - icon: brands/github
     url: https://github.com/HaoleZhang
-  - icon: Wechat
-    url: https://scholar.google.com/
 
 interests:
   - Crochet 🧶
@@ -74,30 +70,25 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: PowerPoint
+      - name: 📚 PowerPoint
         description: ''
         percent: 60
-        icon: PPT
-      - name: Crochet
+      - name: 🧶 Crochet
         description: ''
         percent: 80
-        icon: Crochet
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Table Tennis
+      - name: 🏓 Table Tennis
         description: ''
         percent: 80
-        icon: Tabletennis
-      - name: Cats
+      - name: 😺 Cats
         description: ''
         percent: 100
-        icon: cat
-      - name: Musical
+      - name: 🎭 Musical
         description: ''
         percent: 80
-        icon: Notes
 
 languages:
   - name: English
@@ -117,14 +108,12 @@ awards:
   - title: 2023-2024 Faculty of Hospitality and Tourism Management Dean's Honor List
     date: '2024-08-29'
     awarder: Macau University of Science and Technology
-    icon: MUST
     summary: |
       A nice start for the university life!
   - title: Henry Fok Foundation Scholarship
     url: https://www.must.edu.mo/id-13630/article/view/id-31484.html
     date: '2024-11-25'
     awarder: Henry Fok Foundation Scholarship
-    icon: MUST
     summary: |
       Learned:
       - First Scholarship in my life!
