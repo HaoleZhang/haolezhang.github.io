@@ -27,7 +27,7 @@ tags:
 
 featured: true
 
-url_pdf: static/uploads/论文.pdf
+url_pdf: /uploads/论文.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
