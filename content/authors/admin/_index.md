@@ -39,7 +39,7 @@ profiles:
     url: https://www.instagram.com/zhl_yx_03290921/
   - icon: brands/github
     url: https://github.com/HaoleZhang
-  - icon: academicons/google-scholar
+  - icon: Wechat
     url: https://scholar.google.com/
 
 interests:
@@ -77,11 +77,11 @@ skills:
       - name: PowerPoint
         description: ''
         percent: 60
-        icon: code-bracket
+        icon: PPT
       - name: Crochet
         description: ''
         percent: 80
-        icon: 🧶
+        icon: Crochet
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -89,7 +89,7 @@ skills:
       - name: Table Tennis
         description: ''
         percent: 80
-        icon: person-simple-walk
+        icon: Tabletennis
       - name: Cats
         description: ''
         percent: 100
@@ -97,7 +97,7 @@ skills:
       - name: Musical
         description: ''
         percent: 80
-        icon: camera
+        icon: Notes
 
 languages:
   - name: English
@@ -117,7 +117,7 @@ awards:
   - title: 2023-2024 Faculty of Hospitality and Tourism Management Dean's Honor List
     date: '2024-08-29'
     awarder: Macau University of Science and Technology
-    icon: assets/media/icons/MUST.svg
+    icon: MUST
     summary: |
       A nice start for the university life!
   - title: Henry Fok Foundation Scholarship
