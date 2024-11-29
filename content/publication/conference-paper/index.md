@@ -1,5 +1,6 @@
 ---
-title: 'An example conference paper'
+title: ' Research on Pricing Strategy and Development of the Chinese Ready-Made
+ Tea Industry'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
