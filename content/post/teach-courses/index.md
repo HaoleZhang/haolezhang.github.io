@@ -10,7 +10,7 @@ tags:
   - Freshman
   - MUST
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'OMG'
 ---
 
 
