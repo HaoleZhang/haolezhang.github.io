@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "从玛蒂尔达小姐出发，观察《红与黑》中的欲望模仿行为"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2023-11-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-12-20T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,21 +17,21 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 欲望模仿理论来自于法国心理学家勒内·基拉尔，阐述了人的欲望产生原因。而《红与黑》讲的是一个充满着野心和欲望的故事，这让欲望模仿行为十分频繁地出现在了近乎每一个角色身上。而玛蒂尔达小姐又是他们之中格外突出的那一个，她近乎于病态的行为实在是一个值得分析的角度。但是许多读者都会简单将其行为简单归类于对于连的爱慕。玛蒂尔达小姐的行为动机绝不只是单纯的爱情，而她一厢情愿的付出也不是为了他人。她恰恰是为了她自己。本文将会以欲望模仿理论作为中心，分析玛蒂尔达小姐对于连的感情为什么不只是爱情，以及玛蒂尔达小姐和书中其他人物的欲望模仿行为。
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 中文阅读与写作的结课作业
 
 tags:
-- Large Language Models
+- 红与黑
 
 featured: true
 
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: /workspaces/haolezhang.github.io/content/publication/preprint/论文.pdf
+url_code: ''
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
@@ -62,10 +62,4 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
