@@ -1,6 +1,6 @@
 ---
 title: 🎉 Finished my personal website
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+summary: The website you are seeing right now🎊
 date: 2024-11-29
 
 # Featured image
