@@ -1,6 +1,5 @@
 ---
-title: ' Research on Pricing Strategy and Development of the Chinese Ready-Made
- Tea Industry'
+title: ' Research on Pricing Strategy and Development of the Chinese Ready-Made Tea Industry'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -26,8 +25,7 @@ publishDate: '2025-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2024 2nd International Conference on Digital Economy and
- Business Administration*
+publication: In *2024 2nd International Conference on Digital Economy and Business Administration*
 publication_short: In *ICDEBA 2024*
 
 abstract: At present, the ready-made tea industry is in the spotlight and has achieved great success in the past few years, but the industry is facing many challenges and gradually flat rises. This research sorts out the development of the Chinese ready-made industry and takes two top brands - MIXUE Ice Cream & Tea and HeyTea as examples to expose the plight the whole industry sector is facing and gives suggestions for the entire industry. Based on the SWOT analysis model, the study research on the market situation of these two brands reveals the brand's strengths, weaknesses, opportunities, and threats. At the same time, it points out the customers’ demand for their drinks and gives its advice. These results can help the corporations to evaluate the efficacy of corporations on their own. For further prospects, not only MIXUE Ice Cream & Tea and HeyTea but also other corporations can take some action to attract more potential consumers and keep the existing consumer base.
