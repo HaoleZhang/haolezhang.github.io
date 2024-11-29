@@ -27,17 +27,14 @@ tags:
 
 featured: true
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: /workspaces/haolezhang.github.io/content/publication/preprint/论文.pdf
+url_pdf: preprint/论文.pdf
 url_code: ''
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
