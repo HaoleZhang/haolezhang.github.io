@@ -7,7 +7,11 @@ authors:
 tags:
   - Sholarship
   - Happy
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+---
 
 A reward for my hard work last semester
+
 
 
