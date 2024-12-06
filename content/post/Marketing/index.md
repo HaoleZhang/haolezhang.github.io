@@ -14,6 +14,7 @@ image:
 url_pdf: /uploads/D6-G10-霸王茶姬.pdf
 ---
 
-- Second attempt of presentation with no notes 
+- Second attempt of presentation with no notes.
 - Got the 1st place of Students' choice of best group💅
 - Brought milk tea for everyone 😈
+- I did the third part.
